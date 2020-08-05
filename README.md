@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola, soy desarrollador.
 
-<!--
-**pepemalpica/pepemalpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack | Mobile | Web
 
-Here are some ideas to get you started:
+## Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
+
+- Me encanta hacer apps tanto para Android como para iOS
+
+- EN cuanto al forntend me gusta utilizar Angular o Codeigniter
+
+- Habla español
